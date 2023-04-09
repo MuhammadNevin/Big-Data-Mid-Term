@@ -1,0 +1,22 @@
+src,dst,relationships
+Clinton,Hillary,married
+Bush,Laura,married
+Obama,Michelle,married
+Trump, Ivanka,married
+Clinton,G.Bush,rival
+Clinton,Dole,rival
+Bush,Al Gore,rival
+Bush,Kerry,rival
+Obama,McCain,rival
+Obama,Romney,rival
+Trump,Hillary,rival
+Clinton,Bush,succeeded
+Bush,Obama,succeeded
+Obama,Trump,succeeded
+Hillary,Laura,knows
+Laura,Michelle,knows
+Michelle,Ivanka,knows
+Hillary,Michelle,knows
+Kerry,J. Thorne,married
+Al Gore,T.Aitcheson,married
+McCain,Cindy,married
